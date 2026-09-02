@@ -5,8 +5,9 @@
        src="https://onedrive.live.com/download?cid=ddc6477b0a0dad87&resid=DDC6477B0A0DAD87%21106&authkey=IQCILKdlAFQYTI8dEmo3QeDRASesVWf3_ZakjZc_qn3zkXU"
        alt="Soher Alkassem"
        width="160"
-       style="border-radius: 50%; border: 3px solid #ccc;" />
+       style="border-radius: 50%; border: 3px solid #ccc; object-fit: cover;" />
 </div>
+
 
 
 # 👋 Hi, I'm Soher Alkassem
