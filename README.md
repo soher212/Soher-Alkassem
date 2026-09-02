@@ -2,12 +2,11 @@
 
 <div align="center">
   <img 
-       src="my-images"
-       alt="[Soher Alkassem](https://raw.githubusercontent.com/soher212/Soher-Alkassem/main/soher.jpg
-)"
+       src="https://raw.githubusercontent.com/soher212/Soher-Alkassem/main/soher.jpg"
        width="160"
        style="border-radius: 50%; border: 3px solid #ccc; object-fit: cover;" />
 </div>
+
 
 
 
