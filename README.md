@@ -3,9 +3,14 @@
 <div align="center">
   <img 
        src="https://raw.githubusercontent.com/soher212/Soher-Alkassem/main/soher.jpg"
+       alt="Soher Alkassem"
        width="160"
-       style="border-radius: 50%; border: 3px solid #ccc; object-fit: cover;" />
+       style="border-radius: 50%;
+              border: 4px solid #d4af37;
+              box-shadow: 0 0 10px rgba(212, 175, 55, 0.6);
+              object-fit: cover;" />
 </div>
+
 
 
 
