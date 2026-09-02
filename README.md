@@ -1,13 +1,15 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/soher212/Soher-Alkassem/main/soher.jpg"
-       width="180"
+  <img 
+       src="https://raw.githubusercontent.com/soher212/Soher-Alkassem/main/soher.jpg"
+       width="200"
        style="
          border-radius: 50%;
-         border: 5px solid #d4af37;
+         border: 6px solid #d4af37;
        ">
 </p>
+
 
 
 
